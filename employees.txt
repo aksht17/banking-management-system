@@ -1,0 +1,2 @@
+EMPLOYEE|Bank Employee|1234|9876543211|employee@bank.com|EMPLOYEE|1|0
+MANAGER|M1|Bank Manager|1234|9876543212|manager@bank.com|MANAGER|1

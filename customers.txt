@@ -1,0 +1,2 @@
+C1|Krish|1234|9876543210|krish@example.com|1||LOAN1
+C2|AK|AK1234|22222222222|22|1||
